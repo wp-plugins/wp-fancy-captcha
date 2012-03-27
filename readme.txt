@@ -4,7 +4,7 @@ Donate link: http://leo108.com/
 Tags: fancy-captcha, captcha , fancy , spam , anti-spam , verify code , verify
 Requires at least: 2.0
 Tested up to: 3.3.1
-Stable tag: 1.2.1
+Stable tag: 1.3
 
 Fancy Captcha is a jQuery plugin that helps you protect your web pages from bots and spammers.
 
@@ -14,7 +14,7 @@ Fancy Captcha is a jQuery plugin that helps you protect your web pages from bots
 
 Ajax Fancy Captcha is a jQuery plugin that helps you protect your web pages from bots and spammers. We are introducing you to a new, intuitive way of completing “verify humanity” tasks. In order to do that you are asked to drag and drop specified item into a circle.
 
-But the plugin only support Chinese and English, if you are not a Chinese or English blog , PLEASE see FAQ.
+But the plugin only support Chinese English and Spanish, if you are not , PLEASE see FAQ.
 
 通过拖动解锁来实现评论验证。能够有效防止垃圾评论、机器人评论。
 
@@ -32,7 +32,7 @@ But the plugin only support Chinese and English, if you are not a Chinese or Eng
 
 == Frequently Asked Questions ==
 
-= My blog isn't Chinese or English =
+= My blog isn't Chinese English or Spanish =
 
 You can conntact me via leo108@qq.com , and tell me what language you need . (Youd better use Chinese or English ~~)
 
@@ -41,6 +41,8 @@ You can conntact me via leo108@qq.com , and tell me what language you need . (Yo
 [Leave your FAQ](http://leo108.com/pid-1220.asp)
 
 == Changelog == 
+
+1.3 Will hide the captcha when user put the right item into the circle .
 
 1.2.1 Add Spanish support , thx for Jorge .
 

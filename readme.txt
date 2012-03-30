@@ -4,7 +4,7 @@ Donate link: http://leo108.com/
 Tags: fancy-captcha, captcha , fancy , spam , anti-spam , verify code , verify
 Requires at least: 2.0
 Tested up to: 3.3.1
-Stable tag: 1.3
+Stable tag: 1.4
 
 Fancy Captcha is a jQuery plugin that helps you protect your web pages from bots and spammers.
 
@@ -41,6 +41,8 @@ You can conntact me via leo108@qq.com , and tell me what language you need . (Yo
 [Leave your FAQ](http://leo108.com/pid-1220.asp)
 
 == Changelog == 
+
+1.4 You can translate this plugin into your language by setting in the admin page.
 
 1.3 Will hide the captcha when user put the right item into the circle .
 

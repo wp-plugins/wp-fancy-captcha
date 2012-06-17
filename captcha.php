@@ -3,7 +3,7 @@
 Plugin Name: fancy-captcha
 Plugin URI: http://leo108.com/pid-1220.asp
 Description: Ajax Fancy Captcha is a jQuery plugin that helps you protect your web pages from bots and spammers. We are introducing you to a new, intuitive way of completing “verify humanity” tasks. In order to do that you are asked to drag and drop specified item into a circle.通过拖动解锁来实现评论验证。能够有效防止垃圾评论、机器人评论。
-Version: 1.5
+Version: 1.5.1
 Author: leo108
 Author URI: http://leo108.com/
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -176,6 +176,5 @@ add_action('admin_menu','fancycaptcha_menu');
 add_action( 'wp_footer' , 'captcha_footer' );
 add_action( 'wp_head' , 'captcha_head' );
 add_action( 'comment_form', 'captcha_form', 1 );
-add_action( 'init' , 'captcha_init');
 add_filter( 'preprocess_comment', 'captcha_filter' , 1 );	
 ?>

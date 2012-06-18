@@ -151,7 +151,7 @@ $options = get_option( 'fancycaptcha_options' );
 <?php
 }
 function fancycaptcha_menu() {
-    add_options_page('Fancy-Captcha Settings', 'Fancy-Captcha Settings', 'manage_options', 'captcha', 'fancycaptcha_options_page');
+    add_options_page('Fancy-Captcha Settings', 'Fancy-Captcha', 'manage_options', 'captcha', 'fancycaptcha_options_page');
 }
 function fancycaptcha_options_page() {
         $options = get_option( 'fancycaptcha_options' );

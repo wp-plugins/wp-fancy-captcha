@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: fancy-captcha
+Plugin Name: Fancy Captcha
 Plugin URI: http://leo108.com/pid-1220.asp
 Description: Ajax Fancy Captcha is a jQuery plugin that helps you protect your web pages from bots and spammers. We are introducing you to a new, intuitive way of completing “verify humanity” tasks. In order to do that you are asked to drag and drop specified item into a circle.通过拖动解锁来实现评论验证。能够有效防止垃圾评论、机器人评论。
 Version: 1.5.1
